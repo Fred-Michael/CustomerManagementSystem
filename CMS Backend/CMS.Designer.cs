@@ -1,6 +1,6 @@
 ﻿namespace CMS_Backend
 {
-    partial class Form1
+    partial class CMS
     {
         /// <summary>
         ///  Required designer variable.
