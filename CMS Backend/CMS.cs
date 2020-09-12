@@ -17,5 +17,9 @@ namespace CMS_Backend
             InitializeComponent();
         }
 
+        private void CMS_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
